@@ -1,0 +1,112 @@
+* {
+  outline: none;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: sans-serif;
+	color: #fff;
+  background: #000;
+}
+
+header {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  top: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+  padding: .2rem;
+  max-width: 640px;
+	z-index: 100;
+}
+
+button {
+  flex: 1;
+  margin: .2rem;
+  border: none;
+  border-radius: .2rem;
+  color: #000;
+  background: #ff8700;
+  font-size: .9rem;
+}
+
+a {
+  display: inline-flex;
+  margin: .2rem;
+}
+
+button:hover {
+  background: #ffa53d;
+}
+
+button:active {
+  background: #ffb866;
+}
+
+.container {
+	margin: auto;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+	padding: .3em;
+  line-height: 1em;
+  font-size: 10vw;
+  font-weight: bold;
+  color: #fff;
+  background: #000;
+}
+
+.icon span {
+	padding: .1em;
+	text-align: center;
+	white-space: nowrap;
+}
+
+.icon span:last-child {
+  color: #000;
+  background: #ff8700;
+  border-radius: .1em;
+}
+
+.icon-tb {
+  flex-direction: column;
+	align-items: stretch;
+  padding-top: .2em;
+}
+
+.icon-tb span:first-child {
+	margin: 0 -.05em;
+  padding: .05em 0;
+}
+
+.light {
+	color: #000;
+	background: #fff;
+}
+
+.mask {
+	position: fixed;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: inherit;
+}
+
+.hidden {
+	display: none;
+}
