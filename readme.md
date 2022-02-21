@@ -5,7 +5,9 @@ Try it -> [Pornhub Style Icon Generator](https://vincent-yao27.github.io/ph-icon
 # Features
 
 - WYSIWYG editing
-- Horizontal & vertical orientation
+- Horizontal & vertical orientations
+- Dark & light themes
+- High-res image download
 
 # Example
 
