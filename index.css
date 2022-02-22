@@ -35,7 +35,7 @@ button {
   border: none;
   border-radius: .2rem;
   color: #000;
-  background: #ff8700;
+  background: #ff9000;
   font-size: .9rem;
 }
 
@@ -75,7 +75,7 @@ button:active {
 
 .icon span:last-child {
   color: #000;
-  background: #ff8700;
+  background: #ff9000;
   border-radius: .1em;
 }
 
