@@ -1,4 +1,4 @@
-# Pornhub Style Icon Generator
+# Pornhub IST mergin with GitHub
 
 Try it -> [Pornhub Style Icon Generator](https://vincent-yao27.github.io/ph-icon-gen/)
 
